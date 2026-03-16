@@ -1,4 +1,4 @@
-Hi, I'm Yashraj Netha
+Hey There, I'm Yashraj Netha
 A Computer Science Student, Cybersecurity and Digital Forensics Enthusiast
 
 About Me:
@@ -10,7 +10,7 @@ My focus is on developing practical technical skills through hands-on projects, 
 
 Current Work:
 
-Digital Forensics – Disk Image Analysis
+Digital Forensics :- Disk Image Analysis
 
 Currently working on a digital forensics investigation project involving disk image analysis. The objective is to identify suspicious activities and analyze digital artifacts to reconstruct system usage.
 
