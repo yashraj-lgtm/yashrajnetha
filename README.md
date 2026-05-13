@@ -1,81 +1,158 @@
-Hey There, I'm Yashraj Netha
-A Computer Science Student, Cybersecurity and Digital Forensics Enthusiast
+# Hi, I'm Yashraj 👋
 
-About Me:
+### Computer Science Student | Cybersecurity & Digital Forensics Enthusiast
 
-I am a Computer Science student with a strong interest in cybersecurity and digital forensics. I enjoy exploring how systems work internally and understanding how digital evidence can be analyzed during security investigations.
+---
 
-My focus is on developing practical technical skills through hands-on projects, learning cybersecurity tools, and building a strong foundation in digital investigations.
+# About Me
 
+I am a Computer Science student with a strong interest in cybersecurity and digital forensics. I enjoy understanding how systems work internally, investigating security incidents, and analyzing digital evidence during forensic investigations.
 
-Current Work:
+My focus is on building practical technical skills through hands-on projects, cybersecurity labs, and continuous learning in digital investigations and network security.
 
-Digital Forensics :- Disk Image Analysis
+---
 
-Currently working on a digital forensics investigation project involving disk image analysis. The objective is to identify suspicious activities and analyze digital artifacts to reconstruct system usage.
+# Current Work
 
-Areas involved in the investigation include:
+## 🛡️ Wazuh SIEM Home Lab
 
-- Disk image examination
-- Browser history analysis
-- Identification of suspicious artifacts
-- Evidence documentation
-- Timeline reconstruction
+Currently building and working on a SIEM (Security Information and Event Management) home lab using Wazuh for security monitoring and threat detection.
 
-Tools used:
+The objective of this lab is to understand how security analysts monitor systems, detect suspicious activities, analyze logs, and investigate security events in real-world environments.
 
-- Autopsy
-- FTK Imager
+### Areas Being Explored
 
-Projects:
+* Log collection and monitoring
+* Threat detection
+* Security event analysis
+* Endpoint monitoring
+* SIEM dashboard investigation
+* Linux system monitoring
+* Security alert analysis
 
-Network Scanner
+### Technologies & Tools
+
+* Wazuh SIEM
+* Ubuntu Linux
+* VirtualBox / VMware
+* Linux Command Line
+
+---
+
+# Previous Project
+
+## 🔍 Digital Forensics Investigation — Disk Image Analysis
+
+Worked on a digital forensics investigation project involving disk image analysis to identify suspicious activities and analyze digital artifacts.
+
+### Investigation Areas
+
+* Disk image examination
+* Browser history analysis
+* Deleted file recovery
+* Identification of suspicious artifacts
+* Evidence documentation
+* Timeline reconstruction
+
+### Tools Used
+
+* Autopsy
+* FTK Imager
+
+---
+
+# Projects
+
+## 🌐 Network Scanner
 
 A Python-based network scanner that identifies active devices connected to a local network.
 
-Features:
+### Features
 
-- ARP-based network discovery
-- Detection of connected hosts
-- Display of IP and MAC addresses
-- Simple graphical interface
+* ARP-based network discovery
+* Detection of connected hosts
+* Display of IP and MAC addresses
+* Simple graphical user interface
 
-Technologies used:
+### Technologies Used
 
-- Python
-- Scapy
-- Tkinter
+* Python
+* Scapy
+* Tkinter
 
+### Project Highlights
 
-Technical Skills
+* Built using Python and packet manipulation techniques
+* Uses ARP requests to discover devices in the network
+* Beginner-friendly cybersecurity project for understanding network reconnaissance
 
-Programming
+---
 
-- Python
+# Technical Skills
 
-Cybersecurity and Forensics:
+## Programming
 
-- Digital Forensics Fundamentals
-- Disk Image Analysis
-- Network Scanning
+* Python
 
-Tools
+---
 
-- Autopsy
-- FTK Imager
-- Wireshark (basic usage)
-- Git and GitHub
+## Cybersecurity & Digital Forensics
 
-Currently improving knowledge in:
+* Digital Forensics Fundamentals
+* Disk Image Analysis
+* Network Scanning
+* Basic Security Monitoring
+* Cybersecurity Investigation Techniques
+* SIEM Fundamentals
 
-- Digital Forensics
-- Network Security
-- Ethical Hacking fundamentals
-- Cybersecurity investigation techniques
+---
 
+## Tools & Technologies
 
-Career Goal:
+* Wazuh SIEM
+* Autopsy
+* FTK Imager
+* Wireshark *(basic usage)*
+* Git & GitHub
+* Kali Linux *(learning)*
+* Ubuntu Linux
+
+---
+
+# Currently Learning
+
+* SIEM & Log Analysis
+* SOC Analyst Fundamentals
+* Digital Forensics
+* Network Security
+* Ethical Hacking Fundamentals
+* Linux & Kali Linux
+* Cybersecurity Investigation Techniques
+
+---
+
+# Career Goal
 
 To build strong expertise in cybersecurity and digital forensics through continuous learning, practical projects, and hands-on investigations.
 
-This GitHub profile is used to document my learning journey, projects, and experiments related to cybersecurity and digital forensics.
+I aim to grow toward roles related to:
+
+* SOC Analyst
+* Digital Forensics Analyst
+* Cybersecurity Analyst
+* Incident Response Analyst
+
+---
+
+# GitHub Journey
+
+This GitHub profile is used to document my learning journey, projects, labs, and experiments related to cybersecurity and digital forensics.
+
+I believe in learning by building and continuously improving through practical experience.
+
+---
+
+# Connect With Me
+
+* GitHub: *(Add your GitHub link here)*
+* LinkedIn: *(Add your LinkedIn profile here)*
